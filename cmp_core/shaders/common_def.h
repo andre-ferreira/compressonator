@@ -30,6 +30,8 @@
 #ifndef _COMMON_DEFINITIONS_H
 #define _COMMON_DEFINITIONS_H
 
+#include <cmath>
+
 #ifdef __linux__
 #ifndef _LINUX
 #define _LINUX

@@ -39,8 +39,8 @@
 #include <filesystem>
 namespace sfs = std::filesystem;
 #else
-#include <experimental/filesystem>
-namespace sfs = std::experimental::filesystem;
+#include <filesystem>
+namespace sfs = std::filesystem;
 #endif
 
 static bool CMP_FileExists(const std::string &abs_filename) {
