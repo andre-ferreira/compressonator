@@ -63,7 +63,7 @@ target_sources(CMP_Framework
         ${PROJECT_SOURCE_DIR}/applications/_plugins/common/pluginmanager.cpp
         ${PROJECT_SOURCE_DIR}/applications/_plugins/common/query_timer.h
         ${PROJECT_SOURCE_DIR}/applications/_plugins/common/query_timer.cpp
-        ${PROJECT_SOURCE_DIR}/applications/_plugins/common/stb_image.h
+        #${PROJECT_SOURCE_DIR}/applications/_plugins/common/stb_image.h
         ${PROJECT_SOURCE_DIR}/applications/_plugins/common/tc_pluginapi.h
         ${PROJECT_SOURCE_DIR}/applications/_plugins/common/tc_plugininternal.h
         ${PROJECT_SOURCE_DIR}/applications/_plugins/common/tc_plugininternal.cpp

@@ -32,7 +32,7 @@ set(PLUGIN_COMMON_H
     pluginmanager.h
     query_timer.h
     ssim.h
-    stb_image.h
+    #stb_image.h
     tc_pluginapi.h
     tc_plugininternal.h
     testreport.h

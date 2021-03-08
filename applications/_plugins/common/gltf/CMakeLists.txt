@@ -11,8 +11,8 @@ set(GLTF_H
     gltffeatures.h
     gltfhelpers.h
     gltfstructures.h
-    stb_image.h
-    stb_image_write.h
+    #stb_image.h
+    #stb_image_write.h
     tiny_gltf2.h
     tiny_gltf2_utils.h
     error.h

@@ -33,8 +33,8 @@
 #include <unistd.h> /* For open(), creat() */
 #endif
 
-#define STB_IMAGE_IMPLEMENTATION
-#include "stb_image.h"
+//#define STB_IMAGE_IMPLEMENTATION
+#include <tinygltf/stb_image.h>
 
 #include <string>
 
